@@ -1,7 +1,5 @@
 # Lambda Typescript & CloudFormation Boilerplate
 
-Boilerplate template created for use in TPM Lambda Badge tasks.
-
 ## Commands
 
 1. Compile: `npm run webpack`
