@@ -47,5 +47,4 @@ Resources:
     Properties:
       CloudWatchRoleArn: !GetAtt CloudWatchRole.Arn
 
-Outputs:
-  # TODO
+#Outputs: # You should specify the Stack's external interfaces as Outputs
